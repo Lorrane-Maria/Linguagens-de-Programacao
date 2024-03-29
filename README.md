@@ -1,1 +1,1 @@
-# Projetos da matéria de Linguagens de Programacao
+# Linguagens de Programacao
