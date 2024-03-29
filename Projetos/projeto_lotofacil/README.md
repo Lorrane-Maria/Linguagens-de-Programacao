@@ -47,3 +47,5 @@ O projeto LOTOFÁCIL é um sistema de loteria desenvolvido em Java 17 usando Int
 5. Siga as instruções no menu interativo para fazer suas apostas e verificar os resultados.
 
 ## Demo
+https://github.com/Lorrane-Maria/Linguagens-de-Programacao/assets/142905981/c60dae6a-a6dd-4336-87aa-dd5da0e55dfd
+
